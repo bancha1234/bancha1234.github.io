@@ -24,3 +24,4 @@ for k,v in d.items():
 2.python -m venv venv
 3.venv\scripts\activate
 4.pip install streanlit
+```
