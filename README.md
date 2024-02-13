@@ -1,4 +1,4 @@
-![banner](https://picsum.photos/800/250)
+![dowload banner](./bancha2.jpg)
 # my lecture Note
 
 สำหรับวิชา[ การเขียนโปรเเกรมเชิงอ็อปเจ็ค](https://wichit2s.gitlab.io)
