@@ -1,9 +1,9 @@
-![banner](https://picsum.photos/800/250)
+![dowload banner](./bancha.jpg)
 # my lecture Note
 
 สำหรับวิชา[ การเขียนโปรเเกรมเชิงอ็อปเจ็ค](https://wichit2s.gitlab.io)
 
-![dowload banner](./bancha.jpg)
+![dowload banner](./bancha2.jpg)
 
 บัญชา สิงห์คำ
 # คำสั่งพื้นฐาน git พื้นฐาน
