@@ -3,7 +3,7 @@
 
 สำหรับวิชา[ การเขียนโปรเเกรมเชิงอ็อปเจ็ค](https://wichit2s.gitlab.io)
 
-![dowload banner](./bancha.jpg/800/250)
+![dowload banner](./bancha.jpg)
 
 บัญชา สิงห์คำ
 # คำสั่งพื้นฐาน git พื้นฐาน
