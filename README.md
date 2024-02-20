@@ -3,6 +3,8 @@
 
 สำหรับวิชา[ การเขียนโปรเเกรมเชิงอ็อปเจ็ค](https://wichit2s.gitlab.io)
 
+[ลิงค์](https://github.com/huggingface/diffusers)
+
 ![dowload banner](./bancha.jpg)
 
 บัญชา สิงห์คำ
