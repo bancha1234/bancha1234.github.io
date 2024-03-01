@@ -7,6 +7,7 @@
 
 ![dowload banner](./bancha.jpg)
 
+[การบ้าน]([https://wichit2s.gitlab.io](https://docs.google.com/document/d/1m0jaku9FuaNbXuk261qxqiz-9fKhIcbYZEwKyMyYiMI/edit?hl=th))
 บัญชา สิงห์คำ
 # คำสั่งพื้นฐาน git พื้นฐาน
 ```
